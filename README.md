@@ -11,7 +11,8 @@ Block explorer for Monkeytips CryptoNote based cryptocurrency.
 
 
 ### Development
-Donate: Don't donate.  
+Donate: TRTL:-TRTLuzrtvUpbUBTvC7JyfgP7eEbWQ3SuiAEfdurdMAjcbH1kqBn6gvqcfPGcDVXB31DGQ2j1nCxf4bndJzUSBm5mfLv2GunZX96
+        MTIP:-dicKTiPZXej4dD4sbmsDSj4qsxThgMapLbBY6jJrLjL5FANqMcrkmdPefMJbNVUr6kijf5a8uAFSibFALRspp9WDRLiHHyG7WnsJfu
 
 ### Note
 
