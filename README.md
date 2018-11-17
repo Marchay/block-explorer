@@ -7,7 +7,7 @@ Block explorer for Monkeytips CryptoNote based cryptocurrency.
 ```bash
 ./monkeytipsd --enable-cors="*" --enable_blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=13002
 ```
-2) Just upload to your website and change 'api' variable in config.js to point to your daemon.
+2) Just upload to your website and change 'api' variable in config.js  to point to your daemon and few vars in config.php as per the coin  if it's not mtip.
 
 
 ### Development
