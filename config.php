@@ -4,3 +4,5 @@ return array(
         'blockTargetInterval' => 30,
         'coinUnits' => 100
 );
+$daemonip = '127.0.0.1'; //Daemon IP
+$daemonport = '13002'; //Daemon Port
